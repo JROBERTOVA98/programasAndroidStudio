@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Secret Friend</string>
+    <string name="ingresa_tu_nombre">Ingresa tu nombre:</string>
+    <string name="name">Name</string>
+    <string name="agregar_amigo">Agregar amigo</string>
+    <string name="correo">Correo:</string>
+    <string name="mostrar_lista">Mostrar lista</string>
+    <string name="tu_amigo_secreto_es">Tu amigo secreto es:</string>
+</resources>

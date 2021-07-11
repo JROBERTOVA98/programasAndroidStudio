@@ -1,0 +1,2 @@
+rootProject.name = "My CURP Roberto"
+include ':app'
